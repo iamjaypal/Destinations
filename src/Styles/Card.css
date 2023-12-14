@@ -1,0 +1,16 @@
+.card{
+    width: 100%;
+    min-width: 186px;
+    
+}
+
+@media (min-width :600px){
+    .card{
+        width: 20%;
+    }
+}
+
+p{
+    margin: 0px;
+    font-size: 20px;
+}

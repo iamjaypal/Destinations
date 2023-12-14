@@ -1,0 +1,51 @@
+
+
+.container{
+
+    width: 100%;
+    background: #d3becd;
+    padding: 20px 25px;
+    margin-top: 30px;
+
+}
+@media (min-width : 600px){
+.container{
+    width: 100%;
+    background: #d3becd;
+    display: flex;
+    flex-wrap: wrap;
+    gap : 40px;
+    padding: 2.5em;
+    justify-content: center;
+   
+
+}
+.main{
+    width : 100%;
+    /* margin: 0px 20px; */
+}
+
+#inputbox{
+    border: 2px solid blue;
+    border-radius: 32px;
+    width: 50%;
+    padding: 7px 6px;
+    font-size: 20px;
+}
+}
+h1{
+    text-align: center;
+    margin-left: 10px;
+}
+.searchbar{
+    padding: 10px;
+    text-align: center;
+}
+
+#inputbox{
+    border: 2px solid blue;
+    border-radius: 32px;
+    width: 90%;
+    padding: 20px 16px;
+    font-size: 20px;
+}
