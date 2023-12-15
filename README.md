@@ -5,9 +5,9 @@ Destination Explorer is a web application designed to help users discover and le
 ## key features
   - Search Functionality: Easily search for destinations by city name, making it convenient for users to find information about specific places.
 
- -Informative Cards: Each search result is presented in a visually appealing card format. The card includes essential details such as the city name, rating, and reviews, allowing users to quickly assess the destination's popularity and appeal.
+  - Informative Cards: Each search result is presented in a visually appealing card format. The card includes essential details such as the city name, rating, and reviews, allowing users to quickly assess the destination's popularity and appeal.
 
- -User Reviews: Gain insights from other travelers by viewing reviews associated with each destination. This feature enhances the user experience by providing valuable firsthand experiences and recommendations.
+  - User Reviews: Gain insights from other travelers by viewing reviews associated with each destination. This feature enhances the user experience by providing valuable firsthand experiences and recommendations.
 
 ## Table of Contents
 - [Demo](#demo)
