@@ -9,25 +9,18 @@ Destination Explorer is a web application designed to help users discover and le
 
   - User Reviews: Gain insights from other travelers by viewing reviews associated with each destination. This feature enhances the user experience by providing valuable firsthand experiences and recommendations.
 
-## Table of Contents
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Demo
-Include a link to a live demo or screenshots to showcase your application.
 
 ## Technologies Used
 List the main technologies or frameworks used in your project.
 
 - [React.js](https://reactjs.org/)
-- [Other technologies...]
-
+- [JavaScript]
+- [HTML]
+- [CSS]
+  
 ## Installation
-Provide step-by-step instructions on how to install and set up your project locally. Include any dependencies that need to be installed.
+  1. npm install
+  2. npm start
 
 ```bash
 # Clone the repository
@@ -37,5 +30,5 @@ git clone https://github.com/your-username/your-repo.git
 cd your-repo
 
 # Install dependencies
-npm install
+npm install - react-router-icons
 
