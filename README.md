@@ -13,7 +13,7 @@ Destination Explorer is a web application designed to help users discover and le
 ## Technologies Used
 List the main technologies or frameworks used in your project.
 
-- [React.js](https://reactjs.org/)
+- [React.js]
 - [JavaScript]
 - [HTML]
 - [CSS]
@@ -22,13 +22,6 @@ List the main technologies or frameworks used in your project.
   1. npm install
   2. npm start
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo.git
-
-# Change into the project directory
-cd your-repo
-
-# Install dependencies
-npm install - react-router-icons
+## Install dependencies
+npm install  react-icons
 
